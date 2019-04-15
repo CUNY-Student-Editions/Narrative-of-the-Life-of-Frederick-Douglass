@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="3817248c-bc08-4a12-b408-c3818ad4d5d7" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (3.29.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Narrative of the Life of Frederick Douglass, An American Slave, Written By Himself</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Title</text>
+      </navLabel>
+      <content src="title.html#toc_2"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="copyright.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>Note on the Text</text>
+      </navLabel>
+      <content src="note.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>Preface</text>
+      </navLabel>
+      <content src="preface.html#toc_2"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>Letter from Wendell Phillips</text>
+      </navLabel>
+      <content src="preface.html#toc_3"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>Chapter I</text>
+      </navLabel>
+      <content src="text.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>Chapter II</text>
+      </navLabel>
+      <content src="text.html#toc_2"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8">
+      <navLabel>
+        <text>Chapter III</text>
+      </navLabel>
+      <content src="text.html#toc_4"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9">
+      <navLabel>
+        <text>Chapter IV</text>
+      </navLabel>
+      <content src="text.html#toc_5"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10">
+      <navLabel>
+        <text>Chapter V</text>
+      </navLabel>
+      <content src="text.html#toc_6"/>
+    </navPoint>
+    <navPoint id="num_11" playOrder="11">
+      <navLabel>
+        <text>Chapter VI</text>
+      </navLabel>
+      <content src="text.html#toc_7"/>
+    </navPoint>
+    <navPoint id="num_12" playOrder="12">
+      <navLabel>
+        <text>Chapter VII</text>
+      </navLabel>
+      <content src="text.html#toc_8"/>
+    </navPoint>
+    <navPoint id="num_13" playOrder="13">
+      <navLabel>
+        <text>Chapter VIII</text>
+      </navLabel>
+      <content src="text.html#toc_9"/>
+    </navPoint>
+    <navPoint id="num_14" playOrder="14">
+      <navLabel>
+        <text>Chapter IX</text>
+      </navLabel>
+      <content src="text.html#toc_10"/>
+    </navPoint>
+    <navPoint id="num_15" playOrder="15">
+      <navLabel>
+        <text>Chapter X</text>
+      </navLabel>
+      <content src="text.html#toc_11"/>
+    </navPoint>
+    <navPoint id="num_16" playOrder="16">
+      <navLabel>
+        <text>Chapter XI</text>
+      </navLabel>
+      <content src="text.html#toc_12"/>
+    </navPoint>
+    <navPoint id="num_17" playOrder="17">
+      <navLabel>
+        <text>Appendix</text>
+      </navLabel>
+      <content src="text.html#toc_13"/>
+    </navPoint>
+  </navMap>
+</ncx>

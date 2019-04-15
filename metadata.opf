@@ -1,0 +1,42 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Narrative of the Life of Frederick Douglass, An American Slave, Written By Himself</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Douglass, Frederick">Frederick Douglass</dc:creator>
+    <dc:identifier opf:scheme="uuid" id="uuid_id">3817248c-bc08-4a12-b408-c3818ad4d5d7</dc:identifier>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.29.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:subject>-- (1818?-1895)</dc:subject>
+    <dc:subject>-- 1818-1895</dc:subject>
+    <dc:subject>African Americans -- Biography</dc:subject>
+    <dc:subject>Douglass</dc:subject>
+    <dc:subject>Frederick</dc:subject>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">dabc03ab-383e-4ee1-a78b-32bbd0801a88</dc:identifier>
+    <meta content="{&quot;Frederick Douglass&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="calibre:title_sort" content="Narrative of the Life of Frederick Douglass, An American Slave, Written By Himself"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="cover.html" id="id5" media-type="application/xhtml+xml"/>
+    <item href="title.html" id="id1" media-type="application/xhtml+xml"/>
+    <item href="copyright.html" id="id3" media-type="application/xhtml+xml"/>
+    <item href="note.html" id="id8" media-type="application/xhtml+xml"/>
+    <item href="preface.html" id="id2" media-type="application/xhtml+xml"/>
+    <item href="text.html" id="id4" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="styles.css" id="id" media-type="text/css"/>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="CUNY-imprint.jpg" id="id7" media-type="image/jpeg"/>
+    <item href="Douglass_Narrative_frontispiece__tp.jpg" id="id6" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id5"/>
+    <itemref idref="id1"/>
+    <itemref idref="id3"/>
+    <itemref idref="id8"/>
+    <itemref idref="id2"/>
+    <itemref idref="id4"/>
+  </spine>
+  <guide/>
+</package>

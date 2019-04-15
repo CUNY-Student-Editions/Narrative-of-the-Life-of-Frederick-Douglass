@@ -1,0 +1,170 @@
+@charset utf-16;
+/* Styles for TEST */
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+}
+/* These styles approximate the Manifold defaults. They are stripped when you ingest a file but are here to help preview documents during the drafting phase. */
+body {
+  font-family: freight-text-pro,Georgia,serif;
+  font-weight: 400;
+  font-size: 1.2rem;
+  line-height: 1.8;
+  letter-spacing: .01em;
+  margin: 0 auto;
+  text-align: justify;
+  padding: 0 3em 0 3em; 
+  max-width: 650px;
+}
+
+p {
+  margin: 0 auto 0.2em;
+  text-align: justify;
+  text-indent: 0;
+}
+
+/*These are custom styles */
+p {
+padding-bottom: 0;
+}
+
+p+p {
+  text-indent: 2em;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.title {
+  margin-top: 1em;
+  text-align: center;
+  font-size: 1.75rem;
+  text-indent: 0
+}
+
+.subtitle {
+  margin: .75em auto 1em;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.author {
+  text-align: center;
+  font-size: 1.75rem;
+  margin: 0.5em auto 1.5em 0;
+  text-indent: 0;
+}
+
+.publisher {
+  text-align: center;
+  font-style: italic;
+  font-size: 1rem;
+  margin: 0 auto 0;
+  text-indent: 0em;
+}
+
+.pub1 {
+  text-align: center;
+  font-style: italic;
+  font-size: .8rem;
+  margin: 0 auto 0;
+  text-indent: 0;
+}
+
+.ct {
+  text-align: center;
+  text-indent: 0;
+  margin-top: 1.5em;
+}
+
+.pf {
+  margin-top: 3em;
+  text-indent: 0;
+}
+pf::first-line {
+  font-variant: small-caps;
+}
+
+.copyright {
+  padding-top: 3em;
+  font-size: 80%;
+}
+
+.copyright p {
+  text-indent: 0;
+  text-align: left;
+  margin: 0em auto 1.5em;
+}
+
+div.copyright img {
+  float: left;
+}
+
+.cite {
+  text-align: right;
+  font-variant: small-caps;
+}
+
+.chapter {
+  margin: 0 auto 4em;
+}
+
+.sec {
+  margin: 0 auto 2.5em;
+}
+
+.l2 {
+  text-indent: 4em;
+  }
+  
+  .quote {
+    font-size: 90%;
+    margin:  1em auto;
+    width: 90%
+  }
+  
+.stanza {
+    width: 80%;
+    margin: 1em auto;
+    font-size: 90%;
+    line-height: 1.5em;
+  }
+.stanza p {
+    margin-left: 2em;
+    text-align: left;
+    text-indent: -2em;
+  }
+  
+.stanza h3 {
+    text-align: center;
+    font-style: normal;
+    font-weight: 400;
+    margin-right: 2em;
+  }
+  
+  hr {
+    width: 50%;
+  }
+  .it {
+    font-style: italic;
+  }
+  
+.footnotes {
+  border-top: 1pt solid gray;
+  font-family: sans-serif;
+  margin: 1em;
+  padding 1em 0;
+}
+
+.footnotes p {
+ margin-bottom: 1em;
+ font-size: 1rem;
+ text-indent: 0em;
+ } 
+ 
+sup {
+   vertical-align: super;
+   font-size: smaller;
+ }
